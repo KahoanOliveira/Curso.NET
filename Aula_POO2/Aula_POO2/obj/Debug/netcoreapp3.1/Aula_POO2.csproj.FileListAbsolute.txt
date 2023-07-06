@@ -1,0 +1,14 @@
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.exe
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.deps.json
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.runtimeconfig.json
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.runtimeconfig.dev.json
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.dll
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\bin\Debug\netcoreapp3.1\Aula_POO2.pdb
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.csproj.AssemblyReference.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.AssemblyInfoInputs.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.AssemblyInfo.cs
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.csproj.CoreCompileInputs.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.dll
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.pdb
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso Fundamentos de OOP\Aula_POO2\Aula_POO2\obj\Debug\netcoreapp3.1\Aula_POO2.genruntimeconfig.cache

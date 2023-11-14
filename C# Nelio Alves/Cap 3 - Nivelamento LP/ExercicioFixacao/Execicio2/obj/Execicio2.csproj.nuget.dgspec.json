@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 2 - Introdução\\PrimeiroProjeto\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 3 - Nivelamento LP\\ExercicioFixacao\\Execicio2\\Execicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 2 - Introdução\\PrimeiroProjeto\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 3 - Nivelamento LP\\ExercicioFixacao\\Execicio2\\Execicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 2 - Introdução\\PrimeiroProjeto\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 2 - Introdução\\PrimeiroProjeto\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 3 - Nivelamento LP\\ExercicioFixacao\\Execicio2\\Execicio2.csproj",
+        "projectName": "Execicio2",
+        "projectPath": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 3 - Nivelamento LP\\ExercicioFixacao\\Execicio2\\Execicio2.csproj",
         "packagesPath": "C:\\Users\\KahoanOliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 2 - Introdução\\PrimeiroProjeto\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\KahoanOliveira\\.ProjetosPessoais\\Curso C#\\Curso C#\\C# Nelio Alves\\Cap 3 - Nivelamento LP\\ExercicioFixacao\\Execicio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

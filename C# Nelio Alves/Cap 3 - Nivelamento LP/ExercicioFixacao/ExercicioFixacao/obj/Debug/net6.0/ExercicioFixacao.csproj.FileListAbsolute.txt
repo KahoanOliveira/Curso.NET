@@ -1,0 +1,15 @@
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.exe
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.deps.json
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\refint\ExercicioFixacao.dll
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\KahoanOliveira\.ProjetosPessoais\Curso C#\Curso C#\C# Nelio Alves\Cap 3 - Nivelamento LP\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ref\ExercicioFixacao.dll
